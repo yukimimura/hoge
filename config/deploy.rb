@@ -34,4 +34,4 @@ namespace :deploy do
   end
 end
 
-set :whenever_roles,        ->{ :app }
+# set :whenever_roles,        ->{ :app }
